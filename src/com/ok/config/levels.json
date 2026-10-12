@@ -1,0 +1,49 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "name": "Level 1",
+      "difficulty": "easy",
+      "waves": 5,
+      "availablePlants": [0, 1, 3],
+      "zombieTypes": [0],
+      "sunDropRate": "normal"
+    },
+    {
+      "id": 2,
+      "name": "Level 2",
+      "difficulty": "easy",
+      "waves": 7,
+      "availablePlants": [0, 1, 2, 3],
+      "zombieTypes": [0, 1],
+      "sunDropRate": "normal"
+    },
+    {
+      "id": 3,
+      "name": "Level 3",
+      "difficulty": "medium",
+      "waves": 10,
+      "availablePlants": [0, 1, 2, 3, 4],
+      "zombieTypes": [0, 1, 2],
+      "sunDropRate": "normal"
+    },
+    {
+      "id": 4,
+      "name": "Level 4",
+      "difficulty": "medium",
+      "waves": 12,
+      "availablePlants": [0, 1, 2, 3, 4, 5],
+      "zombieTypes": [0, 1, 2, 3],
+      "sunDropRate": "normal"
+    },
+    {
+      "id": 5,
+      "name": "Level 5",
+      "difficulty": "hard",
+      "waves": 15,
+      "availablePlants": [0, 1, 2, 3, 4, 5, 6, 7],
+      "zombieTypes": [0, 1, 2, 3, 4, 5, 6],
+      "sunDropRate": "normal"
+    }
+  ]
+}

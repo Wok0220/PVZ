@@ -1,0 +1,80 @@
+{
+  "plants": [
+    {
+      "id": 0,
+      "name": "Peashooter",
+      "cost": 100,
+      "cooldown": 7.5,
+      "damage": 20,
+      "range": "front",
+      "attackSpeed": 1.0,
+      "health": 300
+    },
+    {
+      "id": 1,
+      "name": "Sunflower",
+      "cost": 50,
+      "cooldown": 7.5,
+      "sunProduction": 25,
+      "productionInterval": 24,
+      "health": 300
+    },
+    {
+      "id": 2,
+      "name": "CherryBomb",
+      "cost": 150,
+      "cooldown": 50,
+      "damage": 1800,
+      "radius": 1.5,
+      "health": 300
+    },
+    {
+      "id": 3,
+      "name": "WallNut",
+      "cost": 50,
+      "cooldown": 30,
+      "health": 4000,
+      "resistance": "high"
+    },
+    {
+      "id": 4,
+      "name": "PotatoMine",
+      "cost": 25,
+      "cooldown": 25,
+      "damage": 1800,
+      "armTime": 15,
+      "health": 300
+    },
+    {
+      "id": 5,
+      "name": "SnowPea",
+      "cost": 175,
+      "cooldown": 7.5,
+      "damage": 20,
+      "range": "front",
+      "attackSpeed": 1.0,
+      "effect": "slow",
+      "health": 300
+    },
+    {
+      "id": 6,
+      "name": "Repeater",
+      "cost": 200,
+      "cooldown": 7.5,
+      "damage": 20,
+      "range": "front",
+      "attackSpeed": 1.0,
+      "shotsPerAttack": 2,
+      "health": 300
+    },
+    {
+      "id": 7,
+      "name": "TallNut",
+      "cost": 125,
+      "cooldown": 30,
+      "health": 8000,
+      "resistance": "very high",
+      "blocksFlying": true
+    }
+  ]
+}

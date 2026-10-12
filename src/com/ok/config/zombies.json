@@ -1,0 +1,71 @@
+{
+  "zombies": [
+    {
+      "id": 0,
+      "name": "NormalZombie",
+      "health": 270,
+      "speed": 0.001,
+      "damage": 100,
+      "attackSpeed": 1.5,
+      "points": 100
+    },
+    {
+      "id": 1,
+      "name": "ConeheadZombie",
+      "health": 640,
+      "speed": 0.001,
+      "damage": 100,
+      "attackSpeed": 1.5,
+      "points": 125
+    },
+    {
+      "id": 2,
+      "name": "BucketheadZombie",
+      "health": 1300,
+      "speed": 0.001,
+      "damage": 100,
+      "attackSpeed": 1.5,
+      "points": 175
+    },
+    {
+      "id": 3,
+      "name": "PoleVaultingZombie",
+      "health": 430,
+      "speed": 0.002,
+      "damage": 100,
+      "attackSpeed": 1.5,
+      "points": 150,
+      "ability": "vault"
+    },
+    {
+      "id": 4,
+      "name": "BalloonZombie",
+      "health": 170,
+      "speed": 0.0015,
+      "damage": 100,
+      "attackSpeed": 1.5,
+      "points": 125,
+      "flying": true
+    },
+    {
+      "id": 5,
+      "name": "DiggerZombie",
+      "health": 370,
+      "speed": 0.0025,
+      "damage": 100,
+      "attackSpeed": 1.5,
+      "points": 150,
+      "ability": "dig"
+    },
+    {
+      "id": 6,
+      "name": "Gargantuar",
+      "health": 3000,
+      "speed": 0.0005,
+      "damage": 1000,
+      "attackSpeed": 2.0,
+      "points": 500,
+      "ability": "throwImp"
+    }
+  ]
+}
